@@ -1,0 +1,34 @@
+body{
+    background-color: aliceblue;
+}
+
+.formulario1{
+    background-color: #45fb;
+    color: floralwhite;
+    text-align: center;
+    
+}
+
+.formulario2{
+    background-color: #45fb;
+    color: aliceblue;
+    text-align: center;
+}
+
+.formulario3{
+    background-color: gold;
+    text-align: center;
+    
+}
+
+.formulario4{
+    background-color: hotpink;
+    text-align: center;
+
+}
+
+.formulario5{
+    background-color: lawngreen;
+    text-align: center;
+
+}
