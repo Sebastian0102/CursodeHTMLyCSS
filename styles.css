@@ -1,34 +1,27 @@
 body{
-    background-color: aliceblue;
+    background-color: wheat;
 }
-
 .formulario1{
     background-color: #45fb;
-    color: floralwhite;
+    color: #323;
     text-align: center;
-    
+    border-radius: 50px;
 }
-
-.formulario2{
-    background-color: #45fb;
-    color: aliceblue;
-    text-align: center;
+.s{
+    background-color: #237;
+    box-shadow: 4px 4px #323;
+    border-radius: 50px;
 }
-
-.formulario3{
-    background-color: gold;
-    text-align: center;
-    
-}
-
-.formulario4{
-    background-color: hotpink;
-    text-align: center;
+input{
+    cursor: pointer;
 
 }
-
-.formulario5{
-    background-color: lawngreen;
+.justificado{
+    text-align: justify;
+}
+.mayuscula{
+    text-transform: uppercase;
+}
+.centrado{
     text-align: center;
-
 }
