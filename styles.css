@@ -22,6 +22,6 @@ input{
 .mayuscula{
     text-transform: uppercase;
 }
-.centrado{
-    text-align: center;
+.negrita{
+    font-weight: bold;
 }
